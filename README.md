@@ -1,4 +1,4 @@
-![Bar chart](https://github.com/user-attachments/assets/8f71744a-0cfe-4347-b7db-e3a17d24fde6)![image](https://github.com/user-attachments/assets/8faae640-6d15-4e13-ba3b-aba6efcf2ade)# Hiring-Process-Analytics-4-
+# Hiring-Process-Analytics-4-
 This project analyzes hiring process data to optimize recruitment strategies, identify bottlenecks, and improve candidate experience. It provides actionable insights for efficient talent acquisition. (Pipeline Analysis, Metrics Tracking, Bottleneck Identification, Visualization, Actionable Insight).s
 
 Hiring Process Analytics
