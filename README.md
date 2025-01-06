@@ -1,4 +1,4 @@
-# Hiring-Process-Analytics-4-
+![Bar chart](https://github.com/user-attachments/assets/8f71744a-0cfe-4347-b7db-e3a17d24fde6)![image](https://github.com/user-attachments/assets/8faae640-6d15-4e13-ba3b-aba6efcf2ade)# Hiring-Process-Analytics-4-
 This project analyzes hiring process data to optimize recruitment strategies, identify bottlenecks, and improve candidate experience. It provides actionable insights for efficient talent acquisition. (Pipeline Analysis, Metrics Tracking, Bottleneck Identification, Visualization, Actionable Insight).s
 
 Hiring Process Analytics
@@ -77,19 +77,22 @@ Sales Department	746
 Service Department	2055
 Now we can insert bar chart and pie charts.
 
-alt text
-
 Bar Chart
 
-alt text
+![Bar chart](https://github.com/user-attachments/assets/1597828f-21bd-4ef4-9491-758693c2d8c2)
+
 
 Pie chart
+
+![pie chart](https://github.com/user-attachments/assets/0f98d779-461a-4c0c-be4f-de9c65b4e8bf)
+
 
 E - Charts:
 
 I have prepared a chart that shows average salary offered to each post tier.
 
-alt text
+![last chart](https://github.com/user-attachments/assets/34f4faca-6915-4c7e-867c-ab9c7cbc5572)
+
 
 Results –
 
